@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KontakQ</string>
+    <string name="id">Id</string>
+    <string name="nama">Nama</string>
+    <string name="nomor">Nomor</string>
+    <string name="insert">Insert</string>
 </resources>

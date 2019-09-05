@@ -16,21 +16,19 @@ public class Kontak {
     @SerializedName("nomor")
     private String nomor;
 
-    public Kontak(){
+    public Kontak(){}
 
-    }
-
-    public Kontak(String id, String nama, String nomor){
+    public Kontak(String id, String nama, String nomor) {
         this.id = id;
         this.nama = nama;
         this.nomor = nomor;
     }
 
-    public String getId(){
+    public String getId() {
         return id;
     }
 
-    public void setId(String id){
+    public void setId(String id) {
         this.id = id;
     }
 
